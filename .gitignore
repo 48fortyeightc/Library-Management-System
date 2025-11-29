@@ -1,0 +1,19 @@
+# Java / Maven
+/backend/target/
+*.log
+
+# Node / Vite
+/frontend/node_modules/
+/frontend/dist/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+*.DS_Store
+Thumbs.db
+
+# Env / temp
+*.env
+.env.local
+*.tmp
